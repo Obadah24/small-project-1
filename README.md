@@ -1,4 +1,4 @@
-### in brief this mini project about a simple profile applying some of concepts of React.js and also i used Charka UI.
+### in brief this small project about a simple profile applying some of concepts of React.js and also i used Charka UI.
 
 -Overall, this code creates a custom hook called `useScrollDirection` that determines the direction of scrolling on the page by setting up a listener for the `scroll` event on the window object. The hook returns the current scroll direction as its output and also i explained it in detial.
 
